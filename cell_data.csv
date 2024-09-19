@@ -6,3 +6,63 @@ firstCellNumber,lastCellNumber,identifier,name,description
 800,935,A,Portal bamserne,Ingen ptd
 1000,1167,A,Portal flodhestene,Ingen pt
 1200,1347,A,Portal skildpadderne,Ingen pt
+1400,1567,A,Portal tigerne,Ingen pt
+1600,1743,A,Portal slangerne,Ingen pt
+1744,1751,A,Celler i midt,Ingen pt
+1,36,APRE,Portal gul stue,Ingen pt
+37,74,APRE,Portal hønsene,Ingen pt
+75,110,APRE,Portal kakerlakkerne,Ingen pt
+111,150,APRE,Portal kyllingerne,Ingen pt
+151,230,APRE,Portal Aberne,Ingen pt
+231,260,APRE,Portal æslerne,Ingen pt
+261,310,APRE,Portal ænderne,Ingen pt
+347,382,APRE,Portal rød Stue,Ingen pt
+311,346,APRE,Portal ulvene,Ingen pt
+383,392,APRE,Casino gang 1,Bjørnene,Ingen pt
+393,402,APRE,Casino gang 2,Pandaerne,Ingen pt
+403,412,APRE,Casino gang 3,Koalaerne,Ingen pt
+413,422,APRE,VV gang 3,Isbjørnene,Ingen pt
+423,432,APRE,VV gang 2,Bubbibjørnene,Ingen pt
+433,442,APRE,VV gang 1,Hulebjørnene,Ingen pt
+443,454,APRE,Securitygang,Ingen pt
+25086,25086,APRE,BO Celle 1,Ingen pt
+25333,25333,APRE,BO Celle 2,Ingen pt
+1,19,TPRE,Gammel Titan gang,Ingen pt
+25,31,TPRE,Casino Titan gang,Ingen pt
+20,24,TPRE,VV Titan gang,Ingen pt
+1,50,FC,Portal FCoin/Gederne,Ingen pt
+66,105,FC,Portal FCoin/Gederne,Ingen pt
+10,10,AYT,YT celle i vaskeriet,Ingen pt
+11,11,AYT,YT celle ved security,Ingen pt
+1,6,AYT,Mini YT i hønsene,Ingen pt
+12,12,AYT,YT celle ved casino,Ingen pt
+455,470,APRE,Kloakken,Ingen pt
+51,53,FC,Røde lejligheder i A+,Ingen pt
+305,307,FC,Grønne lejligheder i A+,Ingen pt
+308,310,FC,Gule lejligheder i A+,Ingen pt
+326,326,FC,Celle i tanken,Ingen pt
+320,325,FC,Lejligheder ved tanken,Ingen pt
+312,313,FC,A+ ved politistationen,Ingen pt
+302,304,FC,A+ ved politistationen,Ingen pt
+314,319,FC,Ved togstationen i A+,Ingen pt
+311,311,FC,A+ bandeområde celle,Ingen pt
+300,301,FC,A+ bandeområde celle,Ingen pt
+1,22,AVAGT,Højre vagtcellegang i A,Ingen pt
+41,41,AVAGT,Højre vagtcellegang i A,Ingen pt
+60,60,AVAGT,Højre vagtcellegang i A,Ingen pt
+61,74,AVAGT,Anden højre vagtcellegang i A,Ingen pt
+23,40,AVAGT,Venstre vagtcellegang i A,Ingen pt
+42,44,AVAGT,Venstre vagtcellegang i A,Ingen pt
+57,59,AVAGT,Venstre vagtcellegang i A,Ingen pt
+99,99,AVAGT,Special cellen,Ingen pt
+1,285,B,Portal sort,Ingen pt
+286,494,B,Hvid cellegang,Ingen pt
+495,718,B,Portal 1,Ingen pt
+1055,1055,B,Portal 9,Ingen pt
+1057,1111,B,Portal 9,Ingen pt
+1113,1166,B,Portal 9,Ingen pt
+1167,1437,B,Portal 2,Ingen pt
+1438,1661,B,Portal 8,Ingen pt
+1662,1670,B,Over vagtstuen,Ingen pt
+1671,1717,B,Bag minen,Ingen pt
+1718,1740,B,Portal sort bag væggen,Ingen pt
