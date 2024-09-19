@@ -1,9 +1,9 @@
-FirstCellNumber,LastCellNumber,Identifier,Name,Description
+firstCellNumber,lastCellNumber,identifier,name,description
 1,144,A,Portal grisene,Ingen pt
 200,343,A,Portal koalaerne,Ingen pt
 400,543,A,Portal pelikanerne,Ingen pt
 600,671,A,Portal bacon,Ingen pt
-800,935,A,Portal bamserne,Ingen pt
+800,935,A,Portal bamserne,Ingen ptd
 1000,1167,A,Portal flodhestene,Ingen pt
 1200,1347,A,Portal skildpadderne,Ingen pt
 1400,1567,A,Portal tigerne,Ingen pt
