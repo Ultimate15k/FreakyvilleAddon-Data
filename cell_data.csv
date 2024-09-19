@@ -66,3 +66,40 @@ firstCellNumber,lastCellNumber,identifier,name,description
 1662,1670,B,Over vagtstuen,Ingen pt
 1671,1717,B,Bag minen,Ingen pt
 1718,1740,B,Portal sort bag væggen,Ingen pt
+1741,1764,B,Bandeområdet,Ingen pt
+1,33,BK,Kloakken,Ingen pt
+1,180,BPRE,Sort portal ned af trappen,Ingen pt
+101,230,BPRE,Sort portal ned af trappen,Ingen pt
+231,338,BPRE,Portal 1,Ingen pt
+533,637,BPRE,Portal 3,Ingen pt
+638,734,BPRE,Portal 4,Ingen pt
+735,831,BPRE,Portal 5,Ingen pt
+832,928,BPRE,Portal 6,Ingen pt
+929,1025,BPRE,Portal 7,Ingen pt
+339,532,BPRE,Findes ikke,Ingen pt
+1718,1737,BPRE,Portal sort bag væggen,Ingen pt
+1,96,FCB,FCoin portal,Ingen pt
+97,103,FCB,B+ Huse ved bank (Venstre),Ingen pt
+104,106,FCB,B+ Huse ved bank (Højre),Ingen pt
+107,107,FCB,B+ Huse bag banken,Ingen pt
+108,115,FCB,B+ Lejligheder,Ingen pt
+1,3,BYT,YT celler fitness,Ingen pt
+1,16,BVAGT,B Vagtceller,Ingen pt
+1,9,TBPRE,B Titan Celle,Ingen pt
+1,96,C,Cellegang 1,Ingen pt
+97,192,C,Cellegang 2,Ingen pt
+193,288,C,Cellegang 3,Ingen pt
+289,384,C,Cellegang 4,Ingen pt
+385,480,C,Cellegang 5,Ingen pt
+481,576,C,Cellegang 6,Ingen pt
+578,673,C,Cellegang under casino,Ingen pt
+1250,1537,C,Gammel normal portal,Ingen pt
+1826,2114,C,Ny normal portal,Ingen pt
+2115,2132,C,Kloak ved mogens,Ingen pt
+2133,2156,C,Kloak ved casino,Ingen pt
+1,384,CPRE,Madchemist portal,Ingen pt
+1,3,CYT,YT celler (Jail),Ingen pt
+4,6,CYT,YT celler (Lille vagtstue),Ingen pt
+1,8,CVAGT,Første C vagt gang,Ingen pt
+9,18,CVAGT,Anden C vagt gang,Ingen pt
+19,26,CVAGT,Tredje C vagt gang,Ingen pt
