@@ -1,0 +1,3 @@
+Name,CatchMessage,ConfirmationMessage,UpdateMessage,timerInMinutes,coolDownWhenFailedInMinutes,robbingTimeFromStartToFinish,personCoolDownInMinutes
+"A+ Bank","prøver at bryde pengeskabet op i banken i A+ Området!","at bryde bankens pengeskab op i A+ Området!","Du kan først åbne pengeskabet igen om ",60,10,10,720
+"A+ Bandeområdet","prøver at overtage A+ Bande Området for hans bande!","[A+Bande-Område] Det lykkedes","Du kan først overtage territoriet igen om ",15,5,60,120
