@@ -1,3 +1,17 @@
 Name,CatchMessage,ConfirmationMessage,UpdateMessage,timerInMinutes,coolDownWhenFailedInMinutes,robbingTimeFromStartToFinish,personCoolDownInMinutes
 "A+ Bank","prøver at bryde pengeskabet op i banken i A+ Området!","at bryde bankens pengeskab op i A+ Området!","Du kan først åbne pengeskabet igen om ",60,10,10,720
 "A+ Bandeområdet","prøver at overtage A+ Bande Området for hans bande!","[A+Bande-Område] Det lykkedes","Du kan først overtage territoriet igen om ",15,5,60,120
+"A Vagtvault","forsøger at røve vagternes værdi-boks i A!","gennemførte et røveri i vagternes værdi-boks i A!","Du kan først røve vagten igen om ",30,5,8,720
+"A Bandeområdet","prøver at overtage Bande Området for hans bande!","[Bande-Område] Det lykkedes","Du kan først overtage territoriet igen om ",15,5,60,120
+"B+ Bank","prøver at bryde pengeskabet op i banken i B+ Området!","at bryde bankens pengeskab op i B+ Området!","Du kan først åbne pengeskabet igen om ",70,10,13,720
+"B Vagtvault","har stjålet inventar fra Vagt-Huset B!",null,"Røveri: Du kan først røve huset igen om",30,5,5,30
+"B+ Bandeområdet","prøver at overtage B+ Bande Området for hans bande!","[B+Bande-Område] Det lykkedes",null,15,5,60,120
+"B Bandeområdet","prøver at overtage Bande Området for hans bande i B!","[Bande-Område] Det lykkedes",null,15,5,60,120
+"Den hemmelige chest","prøver at åbne den hemmelige chest op i PvP Minen!","låste den hemmelige chest op i PvP Minen!",null,20,3,45,180
+"C Vagtvault","har haft fingrene i Vagt-Vaulten i C!",null,"Røveri: Du kan først røve her igen om",15,5,5,120
+"C Minen","cmine1 vil blive resat om 3 sekunder.","cmine1 vil blive resat om 1 sekunder",null,15,15,3,15
+"A Rocker Torben","ransager lige nu Torbens hus i A+ Området!","har lige afsluttet en ransagning af Torbens hus i A+ Området!",null,120,10,180,720
+"VV / Bank slået fra","har slået A VV , A+ VV og B+ fra den næste time via hans vagt level!",null,null,60,0,0,0
+"Join BO Cooldown",": BANDE : Du er nu medlem af ",null,null,120,0,0,120
+"Fishing rod Cooldown","Du købte 1 Fishing Rod",null,null,20,0,0,20
+"Koben Cooldown","* Du modtog et Koben!",null,null,120,0,0,120
