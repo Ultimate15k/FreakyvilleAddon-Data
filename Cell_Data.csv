@@ -17,7 +17,9 @@ firstCellNumber,lastCellNumber,identifier,name,description
 231,260,APRE,Portal æslerne,Ingen pt
 261,310,APRE,Portal ænderne,Ingen pt
 347,382,APRE,Portal rød Stue,Ingen pt
-311,346,APRE,Portal ulvene,Ingen pt
+311,322,APRE,Portal Ulvene,Ingen pt
+323,334,APRE,Portal Ulvene,Lige ud
+335,346,APRE,Portal Ulvene,Til højre
 383,392,APRE,Casino gang 1 (Bjørnene),Ingen pt
 393,402,APRE,Casino gang 2 (Pandaerne),Ingen pt
 403,412,APRE,Casino gang 3 (Koalaerne),Ingen pt
