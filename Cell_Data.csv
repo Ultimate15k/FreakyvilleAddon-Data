@@ -49,14 +49,14 @@ firstCellNumber,lastCellNumber,identifier,name,description
 314,319,FC,Ved togstationen i A+,Ingen pt
 311,311,FC,A+ bandeområde celle,Ingen pt
 300,301,FC,A+ bandeområde celle,Ingen pt
-1,22,AVAGT,Højre vagtcellegang i A,Ingen pt
-41,41,AVAGT,Højre vagtcellegang i A,Ingen pt
-60,60,AVAGT,Højre vagtcellegang i A,Ingen pt
-61,74,AVAGT,Anden højre vagtcellegang i A,Ingen pt
-23,40,AVAGT,Venstre vagtcellegang i A,Ingen pt
-42,44,AVAGT,Venstre vagtcellegang i A,Ingen pt
-57,59,AVAGT,Venstre vagtcellegang i A,Ingen pt
-99,99,AVAGT,Special cellen,Ingen pt
+1,22,AV,Højre vagtcellegang i A,Ingen pt
+41,41,AV,Højre vagtcellegang i A,Ingen pt
+60,60,AV,Højre vagtcellegang i A,Ingen pt
+61,74,AV,Anden højre vagtcellegang i A,Ingen pt
+23,40,AV,Venstre vagtcellegang i A,Ingen pt
+42,44,AV,Venstre vagtcellegang i A,Ingen pt
+57,59,AV,Venstre vagtcellegang i A,Ingen pt
+99,99,AV,Special cellen,Ingen pt
 1,285,B,Portal sort,Ingen pt
 286,494,B,Hvid cellegang,Ingen pt
 495,718,B,Portal 1,Ingen pt
