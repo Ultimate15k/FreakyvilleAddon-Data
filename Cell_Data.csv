@@ -53,6 +53,7 @@ firstCellNumber,lastCellNumber,identifier,name,description
 41,41,AV,Højre vagtcellegang i A,Ingen pt
 60,60,AV,Højre vagtcellegang i A,Ingen pt
 61,74,AV,Anden højre vagtcellegang i A,Ingen pt
+75,91,AV,Vagtcellegang i A,Ingen pt
 23,40,AV,Venstre vagtcellegang i A,Ingen pt
 42,44,AV,Venstre vagtcellegang i A,Ingen pt
 57,59,AV,Venstre vagtcellegang i A,Ingen pt
