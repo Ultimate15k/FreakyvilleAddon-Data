@@ -105,4 +105,5 @@ firstCellNumber,lastCellNumber,identifier,name,description
 1,8,CV,Første C vagt gang,Ingen pt
 9,18,CV,Anden C vagt gang,Ingen pt
 19,26,CV,Tredje C vagt gang,Ingen pt
-1,15,OFF,Officer Celler,Ingen pt
+1,7,OFF,Offi Celler (Højre),Ingen pt
+8,15,OFF,Offi Celler (Venstre),Ingen pt
