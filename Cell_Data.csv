@@ -84,7 +84,8 @@ firstCellNumber,lastCellNumber,identifier,name,description
 97,103,FCB,Huse ved banken (Venstre) (B+),Ingen pt
 104,106,FCB,Huse ved banken (Højre) (B+),Ingen pt
 107,107,FCB,Huse bag banken (B+),Ingen pt
-108,115,FCB,B+ Lejligheder,Ingen pt
+108,115,FCB,B+ Lejligheder (BO),Ingen pt
+116,126,FCB,B+ Lejligheder (Træet),Ingen pt
 1,3,BYT,YT celler fitness,Ingen pt
 1,16,BV,B Vagtceller,Ingen pt
 1,9,TBPRE,B Titan Celle,Ingen pt
