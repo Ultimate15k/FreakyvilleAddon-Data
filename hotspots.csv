@@ -1,4 +1,4 @@
-name,displayName,catchMessage,confirmationMessage,updateMessage,cooldownSeconds,warningSeconds,minRandom,maxRandom
+name,displayName,catchMessage,cancelMessage,updateMessage,timerMinutes,failedCooldownMinutes,robbingTimeSeconds,personalCooldownMinutes
 APLUS_BANK,A+ Bank,APLUS_VV_CATCH,APLUS_BANK_CONFIRMATION,APLUS_BANK_UPDATE,60,10,16,720
 APLUS_GANGAREA,A+ Bandeområdet,APLUS_GANGAREA_CATCH,APLUS_GANGAREA_CONFIRMATION,GANGAREA_UPDATE,15,5,60,120
 A_VAULT,A Vagtvault,A_VV_CATCH,A_VV_CONFIRMATION,A_VV_UPDATE,30,5,8,720
