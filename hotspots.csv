@@ -1,18 +1,18 @@
-name,displayName,catchMessage,cancelMessage,updateMessage,timerMinutes,failedCooldownMinutes,robbingTimeSeconds,personalCooldownMinutes
-APLUS_BANK,A+ Bank,APLUS_VV_CATCH,APLUS_BANK_CONFIRMATION,APLUS_BANK_UPDATE,60,10,16,720
-APLUS_GANGAREA,A+ Bandeområdet,APLUS_GANGAREA_CATCH,APLUS_GANGAREA_CONFIRMATION,GANGAREA_UPDATE,15,5,60,120
-A_VAULT,A Vagtvault,A_VV_CATCH,A_VV_CONFIRMATION,A_VV_UPDATE,30,5,8,720
-A_GANGAREA,A Bandeområdet,A_GANGAREA_CATCH,A_GANGAREA_CONFIRMATION,GANGAREA_UPDATE,15,5,60,120
-BPLUS_VAULT,B+ Bank,BPLUS_VV_CATCH,BPLUS_VV_CONFIRMATION,BPLUS_VV_UPDATE,70,10,13,720
-B_VAULT,B Vagtvault,B_VV_CATCH,B_VV_CONFIRMATION,B_VV_UPDATE,30,5,5,30
-BPLUS_GANGAREA,B+ Bandeområdet,BPLUS_GANGAREA_CATCH,BPLUS_GANGAREA_CONFIRMATION,BPLUS_GANGAREA_UPDATE,15,5,60,120
-B_GANG_AREA,B Bandeområdet,B_GANGAREA_CATCH,B_GANGAREA_CONFIRMATION,B_GANGAREA_UPDATE,15,5,60,120
-B_PVP_CHEST,Den hemmelige chest,B_PVP_CHEST_CATCH,B_PVP_CHEST_CONFIRMATION,PVP_CHEST_UPDATE,20,3,45,180
-C_GANG_AREA,C Bandeområde,C_GANGAREA_CATCH,C_GANGAREA_CONFIRMATION,C_GANGAREA_UPDATE,15,5,60,180
-C_VAULT,C Vagtvault,C_VV_CATCH,C_VV_CONFIRMATION,C_VV_UPDATE,15,5,5,120
-CM_VAULT,C Max Vagtvault,CM_VV_CATCH,CM_VV_CONFIRMATION,CM_VV_UPDATE,28,10,15,120
-A_ROCKER_TORBEN,A Rocker Torben,ROCKER_TORBEN_CATCH,ROCKER_TORBEN_CONFIRMATION,ROCKER_TORBEN_UPDATE,120,1,180,720
-A_DISABLE_VAULTS,VV / Bank slået fra,A_DISABLE_VAULTS_CATCH,A_DISABLE_VAULTS_CONFIRMATION,A_DISABLE_VAULTS_UPDATE,60,0,0,0
-NEW_GANG,Join BO Cooldown,NEW_GANG_CATCH,NEW_GANG_CONFIRMATION,NEW_GANG_UPDATE,120,0,0,120
-NEW_FISHING_ROD,Fishing rod Cooldown,NEW_FISHING_ROD_CATCH,NEW_FISHING_ROD_CONFIRMATION,NEW_FISHING_ROD_UPDATE,20,0,0,20
-B_KOBEN,Koben Cooldown,B_KOBEN_CATCH,B_KOBEN_CONFIRMATION,B_KOBEN_UPDATE,120,0,0,120
+name,displayName,catchMessage,confirmMessage,updateMessage,coolDownMinutes,coolDownWhenFailedMinutes,robbingTimeSeconds,personalCoolDownMinutes
+APLUS_BANK,A+ Bank,"prøver at bryde pengeskabet op i banken i A+ Området!","at bryde bankens pengeskab op i A+ Området!","Du kan først åbne pengeskabet igen om ",60,10,16,720
+APLUS_GANGAREA,A+ Bandeområdet,"prøver at overtage A+ Bande Området for hans bande!","[A+Bande-Område] Det lykkedes","Du kan først overtage territoriet igen om ",15,5,60,120
+A_VAULT,A Vagtvault,"forsøger at røve vagternes værdi-boks i A!","gennemførte et røveri i vagternes værdi-boks i A!","Du kan først røve vagten igen om ",30,5,8,720
+A_GANGAREA,A Bandeområdet,"prøver at overtage Bande Området for hans bande!","[Bande-Område] Det lykkedes","Du kan først overtage territoriet igen om ",15,5,60,120
+BPLUS_VAULT,B+ Bank,"prøver at bryde pengeskabet op i banken i B+ Området!","at bryde bankens pengeskab op i B+ Området!","Du kan først åbne pengeskabet igen om ",70,10,13,720
+B_VAULT,B Vagtvault,"har stjålet inventar fra Vagt-Huset B!","","Røveri: Du kan først røve huset igen om",30,5,5,30
+BPLUS_GANGAREA,B+ Bandeområdet,"prøver at overtage B+ Bande Området for hans bande!","[B+Bande-Område] Det lykkedes","",15,5,60,120
+B_GANG_AREA,B Bandeområdet,"prøver at overtage Bande Området for hans bande i B!","[Bande-Område] Det lykkedes","",15,5,60,120
+B_PVP_CHEST,Den hemmelige chest,"prøver at åbne den hemmelige chest op i PvP Minen!","låste den hemmelige chest op i PvP Minen!","",20,3,45,180
+C_GANG_AREA,C Bandeområde,"prøver at overtage Bande Området for hans bande!","[Bande-Område] Det lykkedes","",15,5,60,180
+C_VAULT,C Vagtvault,"har haft fingrene i Vagt-Vaulten i C!","","Røveri: Du kan først røve her igen om",15,5,5,120
+CM_VAULT,C Max Vagtvault,"truer Lenny med tæsk i C-MAX Området!","at røve stakkels Lenny i C-MAX Området!","Du kan først snakke med Lenny igen om ",28,10,15,120
+A_ROCKER_TORBEN,A Rocker Torben,"ransager lige nu Torbens hus i A+ Området!","har lige afsluttet en ransagning af Torbens hus i A+ Området!","",120,1,180,720
+A_DISABLE_VAULTS,VV / Bank slået fra,"har slået A VV , A+ VV og B+ fra den næste time via hans vagt level!","","",60,0,0,0
+NEW_GANG,Join BO Cooldown,": BANDE : Du er nu medlem af ","","",120,0,0,120
+NEW_FISHING_ROD,Fishing rod Cooldown,"Du købte 1 Fishing Rod","","",20,0,0,20
+B_KOBEN,Koben Cooldown,"* Du modtog et Koben!","","",120,0,0,120
